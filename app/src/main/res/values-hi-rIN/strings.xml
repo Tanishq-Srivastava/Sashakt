@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सशक्त</string>
+    <string name="student_title">विद्यार्थी</string>
+    <string name="teacher_title">अध्यापक</string>
+    <string name="school">विद्यालय</string>
+    <string name="download_resource">डाउन्लोड अध्ययन सामग्री</string>
+    <string name="class_school">कक्षा</string>
+    <string name="module">अध्याय</string>
+    <string name="password">पासवर्ड</string>
+    <string name="teacher_id">शिक्षक आईडी</string>
+    <string name="upload_resource">अपलोड अध्ययन सामग्री</string>
+    <string name="helper_text">6 अंक कुंजी</string>
+
+    <string name="language_pref">भाषा</string>
+    <string name="lang_dialog_title">भाषा चुनिए</string>
+    <string name="cancel">रद्द करे</string>
+    <string name="change">बदले</string>
+    <string name="close">रद्द करे</string>
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>अंग्रेज़ी</item>
+        <item>हिंदी</item>
+    </string-array>
+
+</resources>

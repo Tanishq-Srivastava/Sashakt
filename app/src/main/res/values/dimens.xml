@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">1dp</dimen>
+    <dimen name="box_corner_radius">20dp</dimen>
+    <dimen name="padding_form">35dp</dimen>
+    <dimen name="margin_title_top">4dp</dimen>
+    <dimen name="margin_lang_end">15dp</dimen>
+    <dimen name="margin_lang_top">46dp</dimen>
+
+    <dimen name="close_button">30dp</dimen>
+    <dimen name="close_button_margin">10dp</dimen>
+    <dimen name="dialog_margin">40dp</dimen>
+    <dimen name="dialog_height">170dp</dimen>
+    <dimen name="dialog_textsize">20sp</dimen>
+    <dimen name="spinner_padding">10dp</dimen>
+</resources>
